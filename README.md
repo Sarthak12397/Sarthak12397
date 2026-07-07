@@ -41,7 +41,7 @@ Currently building toward backend roles in NZ · AU · Remote
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Sarthak12397&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-<!--![](https://streak-stats.demolab.com/?user=Sarthak12397&theme=dark&hide_border=false)<br/> -->
+[](https://streak-stats.demolab.com/?user=Sarthak12397&theme=dark&hide_border=false)<br/> 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sarthak12397&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide=jupyter%20notebook)
 
 ---
